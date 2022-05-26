@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ritik-kumar-agrawal
+- 👋 Hi, I’m @ritikkumar-agrawal
 - 👀 I’m interested in creating & learning
 - 🌱 I’m currently learning Web dev. & Designing
 - 📫 Reach to me via:
