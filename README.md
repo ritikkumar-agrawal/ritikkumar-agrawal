@@ -2,8 +2,7 @@
 - 👀 I’m interested in creating & learning
 - 🌱 I’m currently learning Web dev. & Designing
 - 📫 Reach to me via:
--     IG : ritik_agrawal_
--        : dark_lens_cell (developer page)
+
 -     Linked In: https://www.linkedin.com/in/ritik-kumar-agrawal-b52a0319a/
 - 
 
