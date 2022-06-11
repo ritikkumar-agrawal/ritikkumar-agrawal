@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritikkumar-agrawal
-- 👀 I’m interested in creating & learning
+- 👀 I’m interested interested in UI-UX Designing, Web dev.
 
 - 📫 Reach to me via:
 
