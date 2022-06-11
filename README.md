@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritikkumar-agrawal
 - 👀 I’m interested in creating & learning
-- 🌱 I’m currently learning Web dev. & Designing
+
 - 📫 Reach to me via:
 
 -     Linked In: https://www.linkedin.com/in/ritik-kumar-agrawal-b52a0319a/
