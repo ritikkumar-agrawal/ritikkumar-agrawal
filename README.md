@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @ritikkumar-agrawal
 - 👀 I’m interested interested in UI-UX Designing, Web dev.
 
-- 📫 Reach to me via:
-
--     Linked In: https://www.linkedin.com/in/ritik-kumar-agrawal-b52a0319a/
+- 
 - 
 
 <!---
