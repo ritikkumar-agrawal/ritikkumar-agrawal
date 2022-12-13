@@ -23,3 +23,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikkumar-agrawal&label=Profile%20views&color=0e75b6&style=flat" alt="ritikkumar-agrawal" /> </p>
+
