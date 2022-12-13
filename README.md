@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FrontEnd WebDev**
 
-- ⚡ Fun fact **Dreaming is itself a dream**
+- ⚡ Amazing fact **Dreaming is itself a dream**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
