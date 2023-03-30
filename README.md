@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on **WebDev**
 
-- 🌱 I’m currently learning **FrontEnd WebDev**
+<!-- - 🌱 I’m currently learning **FrontEnd WebDev** -->
+- 💤 Life can always be treated better
 
 - ⚡ Amazing fact **Dreaming is itself a dream**
 
