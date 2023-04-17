@@ -8,7 +8,7 @@
 <!-- - 🌱 I’m currently learning **FrontEnd WebDev** -->
 - 💤 Life can always be treated better
 
-- ⚡ Amazing fact **Dreaming is itself a dream**
+- ⚡ Amazing fact **Dreaming itself is a dream**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
