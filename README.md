@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **WebDev**
 
+- 📑 I believe in **History & Technology**
+<!-- - ✨ **Artificial Intelligence of the Natural Intelligency** -->
 <!-- - 🌱 I’m currently learning **FrontEnd WebDev** -->
 - 💤 Life can always be treated better
 
