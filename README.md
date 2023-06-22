@@ -6,9 +6,7 @@
 - 📑 I believe in **History & Technology**
 <!-- - ✨ **Artificial Intelligence of the Natural Intelligency** -->
 <!-- - 🌱 I’m currently learning **FrontEnd WebDev** -->
-- 💤 Life can always be treated better
 
-- ⚡ Amazing fact **Dreaming itself is a dream**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
