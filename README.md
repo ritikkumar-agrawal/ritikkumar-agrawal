@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritik Agrawal</h1>
-<h3 align="center">A passionate designer and a developer</h3>
+<!-- <h3 align="center">A passionate designer and a developer</h3> -->
 
-- 🔭 I’m currently working on **WebDev**
+- 🔭 working on **Dev** & **Design**
 
-- 📑 I believe in **History & Technology**
+- 📑 **History & Technology**
 <!-- - ✨ **Artificial Intelligence of the Natural Intelligency** -->
 <!-- - 🌱 I’m currently learning **FrontEnd WebDev** -->
 
