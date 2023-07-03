@@ -28,6 +28,9 @@
 
 ### 📊 &nbsp;GitHub Analytics
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar-agrawal&layout=compact&theme=tokyonight)](https://github.com/ritikkumar-agrawal) -->
+
+
 <p align="center">
 <span style="
     display: flex;
