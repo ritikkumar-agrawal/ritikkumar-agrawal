@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritik Agrawal</h1>
+<h1 align="center">Hey👋,It's Ritik here!</h1>
 <!-- <h3 align="center">A passionate designer and a developer</h3> -->
 
 - 🔭 working on **Dev** & **Design**
