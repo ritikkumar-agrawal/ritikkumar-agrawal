@@ -17,20 +17,25 @@
 <a href="https://www.codechef.com/users/ritikagrawal12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritikagrawal12" height="30" width="40" /></a>
 </p>
 
-<!--<h3 align="left">Languages and Tools:</h3>-->
-<!-- <p align="left"> -->
-<!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cplusplus" width="40" height="40"/> </a> -->
-<!-- <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="html5" width="40" height="40"/> </a>  -->
-<!-- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="40" height="40"/> </a> -->
-<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> -->
-<!-- <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="javaScript" width="40" height="40"/> </a> -->
-<!-- </p> -->
+<h3 align="left">Languages, Tools, Frameworks:</h3>
+<p align="left">
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="javaScript" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1260/1260775.png" alt="ReactJS" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongoose" width="40" height="40"/> </a>
+</p> 
 
-### 📊 &nbsp;GitHub Analytics
+
+<!-- ### 📊 &nbsp;GitHub Analytics -->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar-agrawal&layout=compact&theme=tokyonight)](https://github.com/ritikkumar-agrawal) -->
 
-
+<!--
 <p align="center">
 <span style="
     display: flex;
@@ -59,7 +64,8 @@
   </picture>
   </span>
 </p>
-
+-->
+<!--
 <p align="center">
   <picture>
     <source 
@@ -73,7 +79,7 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ritikkumar-agrawal&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" alt="github-graph" />
   </picture>
 </p>
-
+-->
 ---
 
 
