@@ -20,10 +20,12 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="javaScript" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1260/1260775.png" alt="ReactJS" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongoose" width="40" height="40"/> </a>
+<a href="https://www.react.dev" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoW3g9hjXIasgon-kpzz-lD9z4SsalyPbZA&s" alt="ReactJS" width="40" height="40"/> </a> 
+<a href="https://www.getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongoose" width="40" height="40"/> </a>
+  <a href="https://www.firebase.google.com/js/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="40" height="40"/> </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/> </a>
 </p> 
 </div>
 
