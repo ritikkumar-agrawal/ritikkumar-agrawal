@@ -24,8 +24,10 @@
 <a href="https://www.getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongoose" width="40" height="40"/> </a>
-  <a href="https://www.firebase.google.com/js/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="40" height="40"/> </a>
+  <a href="https://www.firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="40" height="40"/> </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="40" height="40"/> </a>
 </p> 
 </div>
 
