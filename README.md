@@ -3,9 +3,9 @@
  💫 About Me :
 
 - 🔭 working on Dev & Design 
-- 📑 History, Technology, Product design
-- 🌱 Talks about innovation <br><br>🥅 To be self-sufficient
-
+- 📑 History, Technology, Product Design
+- 🌱 Talks about innovation
+- 🥅 To be self-sufficient
 - Contact me : <a href="mailto:ritikagrawal3268@gmail.com">Gmail</a>  or  <a href="https://x.com/ritik_agrawal12">Twitter/X</a>
 
 
